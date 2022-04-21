@@ -1,6 +1,6 @@
-PWD C:\Users\Haako\UiT Office 365\O365-Bachelor Drone - General\Bachelor\Latex\ny
+PWD C:\Users\Haako\dev\source\rapport2\rapport2\ny
 INPUT C:\Users\Haako\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Haako\UiT Office 365\O365-Bachelor Drone - General\Bachelor\Latex\ny\main.tex
+INPUT c:\Users\Haako\dev\source\rapport2\rapport2\ny\main.tex
 OUTPUT main.log
 INPUT C:\Program Files\MiKTeX\tex\latex\koma-script\scrartcl.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\koma-script\scrartcl.cls
