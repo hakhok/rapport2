@@ -1,0 +1,14 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'main.blg'
+[200] biber-MSWIN64:340> INFO - === 
+[272] Biber.pm:418> INFO - Reading 'main.bcf'
+[496] Biber.pm:972> INFO - Found 18 citekeys in bib section 0
+[523] Biber.pm:4383> INFO - Processing section 0
+[548] Biber.pm:4574> INFO - Looking for bibtex file 'kilder.bib' for section 0
+[631] bibtex.pm:1713> INFO - LaTeX decoding ...
+[669] bibtex.pm:1518> INFO - Found BibTeX data source 'kilder.bib'
+[895] UCollate.pm:68> INFO - Overriding locale 'nb-NO' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[896] UCollate.pm:68> INFO - Overriding locale 'nb-NO' defaults 'variable = shifted' with 'variable = non-ignorable'
+[896] Biber.pm:4203> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'nb-NO'
+[924] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[936] bbl.pm:757> INFO - Output to main.bbl

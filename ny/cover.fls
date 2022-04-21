@@ -1,0 +1,7 @@
+PWD C:\Users\Haako\UiT Office 365\O365-Bachelor Drone - General\Bachelor\Latex\ny
+INPUT C:\Users\Haako\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\Haako\UiT Office 365\O365-Bachelor Drone - General\Bachelor\Latex\ny\cover.tex
+OUTPUT cover.log
+INPUT C:\Users\Haako\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmcsc10.tfm
+INPUT C:\Users\Haako\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Users\Haako\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm

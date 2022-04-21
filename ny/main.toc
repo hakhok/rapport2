@@ -1,0 +1,73 @@
+\babel@toc {norsk}{}\relax 
+\contentsline {section}{\numberline {1}{Sammendrag}}{2}{section.1}%
+\contentsline {section}{\numberline {2}{Forord}}{3}{section.2}%
+\contentsline {section}{\numberline {3}{Forkortelser og fagbegreper}}{6}{section.3}%
+\contentsline {section}{\numberline {4}{Innledning}}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}{Bakgrunn for oppgaven}}{7}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}{Kongsberg Maritime}}{7}{subsubsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.2}{Problemstilling}}{7}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}{Målformulering}}{8}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}{Formål}}{8}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}{Resultatmål}}{8}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3}{Prosessmål}}{8}{subsubsection.4.3.3}%
+\contentsline {section}{\numberline {5}{Valg av løsning}}{9}{section.5}%
+\contentsline {subsection}{\numberline {5.1}{Systemkrav}}{9}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}{Forslag til andre posisjonsmetoder enn UWB}}{9}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}{Kamera triangulering}}{9}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}{Bluetooth, Zigbee og Wifi}}{10}{subsubsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.2}{UWB}}{10}{subsubsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.4}{Valg av UWB system}}{10}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1}{DWM100}}{10}{subsubsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.2}{DWM1001}}{11}{subsubsection.5.4.2}%
+\contentsline {subsubsection}{\numberline {5.4.3}{POZYX}}{11}{subsubsection.5.4.3}%
+\contentsline {subsection}{\numberline {5.5}{Valg av platform}}{12}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}{Konsept}}{12}{subsection.5.6}%
+\contentsline {subsubsection}{\numberline {5.6.1}{Design av drone}}{12}{subsubsection.5.6.1}%
+\contentsline {subsubsection}{\numberline {5.6.2}{3D-printede deler}}{13}{subsubsection.5.6.2}%
+\contentsline {subsubsection}{\numberline {5.6.3}{Oppkobling av dronen}}{13}{subsubsection.5.6.3}%
+\contentsline {subsubsection}{\numberline {5.6.4}{UWB-tag til flightcontroller}}{13}{subsubsection.5.6.4}%
+\contentsline {subsubsection}{\numberline {5.6.5}{Oppsett av anker}}{14}{subsubsection.5.6.5}%
+\contentsline {section}{\numberline {6}{Teori}}{15}{section.6}%
+\contentsline {subsection}{\numberline {6.1}{Hvordan finne posisjon}}{15}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}{UWB}}{16}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}{Two way ranging}}{16}{subsubsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.3}{GNSS}}{17}{subsection.6.3}%
+\contentsline {subsubsection}{\numberline {6.3.1}{Funksjon}}{17}{subsubsection.6.3.1}%
+\contentsline {subsubsection}{\numberline {6.3.2}{Nøyaktighet}}{17}{subsubsection.6.3.2}%
+\contentsline {subsubsection}{\numberline {6.3.3}{Feilkilder}}{19}{subsubsection.6.3.3}%
+\contentsline {subsection}{\numberline {6.4}{Arduino}}{19}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}{Elektronisk kompass/magnetometer}}{20}{subsection.6.5}%
+\contentsline {subsubsection}{\numberline {6.5.1}{Hall-effekt}}{20}{subsubsection.6.5.1}%
+\contentsline {subsubsection}{\numberline {6.5.2}{Magnetoresistans}}{20}{subsubsection.6.5.2}%
+\contentsline {subsubsection}{\numberline {6.5.3}{Magnetfelt}}{20}{subsubsection.6.5.3}%
+\contentsline {subsection}{\numberline {6.6}{Akselerometer}}{21}{subsection.6.6}%
+\contentsline {subsubsection}{\numberline {6.6.1}{MEMS-akselerometer}}{21}{subsubsection.6.6.1}%
+\contentsline {subsubsection}{\numberline {6.6.2}{Piezoelektrisk akselerometer}}{22}{subsubsection.6.6.2}%
+\contentsline {subsection}{\numberline {6.7}{gyroskop}}{22}{subsection.6.7}%
+\contentsline {subsection}{\numberline {6.8}{Barometer}}{23}{subsection.6.8}%
+\contentsline {subsection}{\numberline {6.9}{PID-regulator og posisjon hold}}{23}{subsection.6.9}%
+\contentsline {subsubsection}{\numberline {6.9.1}{PID-regulering for droner}}{24}{subsubsection.6.9.1}%
+\contentsline {subsection}{\numberline {6.10}{Extended kalman filter (EKF)}}{24}{subsection.6.10}%
+\contentsline {subsection}{\numberline {6.11}{Multirotor}}{25}{subsection.6.11}%
+\contentsline {subsubsection}{\numberline {6.11.1}{Komponenter}}{25}{subsubsection.6.11.1}%
+\contentsline {subsubsection}{\numberline {6.11.2}{Styring}}{26}{subsubsection.6.11.2}%
+\contentsline {section}{\numberline {7}{Sikkerhet og regelverk}}{27}{section.7}%
+\contentsline {subsection}{\numberline {7.1}{Sikkerhetstiltak for operasjonene}}{27}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}{Tiltak for drone på avveie}}{27}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}{Regelverk for droneflyvning}}{28}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}{Regelverk for sendinger}}{28}{subsection.7.4}%
+\contentsline {section}{\numberline {8}{Gjennomføring}}{28}{section.8}%
+\contentsline {subsection}{\numberline {8.1}{Oppsett av UWB-tags og ankere}}{28}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}{Avlesning av posisjon med Arduino}}{29}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}{Plotting med python}}{29}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}{Presisjon og rekkevidde av UWB system}}{30}{subsection.8.4}%
+\contentsline {subsubsection}{\numberline {8.4.1}{Rekkevidde}}{30}{subsubsection.8.4.1}%
+\contentsline {subsubsection}{\numberline {8.4.2}{Presisjon}}{31}{subsubsection.8.4.2}%
+\contentsline {subsection}{\numberline {8.5}{Analyse og konklusjon}}{33}{subsection.8.5}%
+\contentsline {subsection}{\numberline {8.6}{Avlesning av posisjon og oppsett av drone}}{33}{subsection.8.6}%
+\contentsline {subsection}{\numberline {8.7}{Test av posisjonshold i gang}}{34}{subsection.8.7}%
+\contentsline {subsection}{\numberline {8.8}{Test av presisjon i krafthallen}}{34}{subsection.8.8}%
+\contentsline {subsection}{\numberline {8.9}{Test av posisjonhold I Hamnahallen}}{34}{subsection.8.9}%
+\contentsline {subsection}{\numberline {8.10}{Test av automatisk landing og preprogrammert rute}}{34}{subsection.8.10}%
+\contentsline {subsubsection}{\numberline {8.10.1}{Landing}}{34}{subsubsection.8.10.1}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

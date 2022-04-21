@@ -1,0 +1,60 @@
+\babel@toc {norsk}{}\relax 
+\deactivateaddvspace 
+\contentsline {figure}{\numberline {1}{\ignorespaces Hull Skater.\relax }}{7}{figure.caption.1}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Sammenlikning av posisjoneringssystemer.\relax }}{9}{figure.caption.2}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Droner for kameratriangulering.\relax }}{10}{figure.caption.3}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Valg av system.\relax }}{10}{figure.caption.4}%
+\contentsline {figure}{\numberline {5}{\ignorespaces DWM100.\relax }}{10}{figure.caption.5}%
+\contentsline {figure}{\numberline {6}{\ignorespaces DWM1001.\relax }}{11}{figure.caption.6}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Pozyx creator kit lite.\relax }}{11}{figure.caption.7}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Valg av UWB system.\relax }}{12}{figure.caption.8}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Drone ramme med 3D-printet beskyttelse.\relax }}{12}{figure.caption.9}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Posisjoneringskonsept.\relax }}{13}{figure.caption.10}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Stresstest i Fusion 360\relax }}{13}{figure.caption.11}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Oppkobling av "Oversetter" fra UWB-tag til flightkontroller.\relax }}{14}{figure.caption.12}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Posisjonering ved ulike antall ankere.}}{15}{figure.caption.13}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Ved bruk av et anker kan tagen finne ut hvor langt unna ankeret den er.}}}{15}{subfigure.13.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Ved bruk av to ankere med kjent posisjon kan tagen regne ut to mulige posisjoner den kan være på i 2D.}}}{15}{subfigure.13.2}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Ved bruk av tre ankere med kjent posisjon kan tagen regne ut en absolutt posisjon i 2D.}}}{15}{subfigure.13.3}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Ved bruk av 4 eller flere ankere med kjent posisjon kan tagen regne ut en posisjon i 3D, altså i x-retning, y-retning og høyde.}}}{15}{subfigure.13.4}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Two way ranging.\relax }}{16}{figure.caption.14}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Code-positioning. \blx@tocontentsinit {0}\parencite {Tallysman}\relax }}{18}{figure.caption.15}%
+\contentsline {figure}{\numberline {16}{\ignorespaces GNSS-feilkilder.\blx@tocontentsinit {0}\parencite {NorskRomsenter}\relax }}{18}{figure.caption.16}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Arduino nano.\blx@tocontentsinit {0}\parencite {ArduinoIntroduction}\relax }}{19}{figure.caption.17}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Hall-sensor. \blx@tocontentsinit {0}\parencite {Bosch}\relax }}{20}{figure.caption.18}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Posisjonen til den magnetiske Nordpolen de siste 100 årene. \blx@tocontentsinit {0}\parencite {IncEncyclopediaBritannica}\relax }}{21}{figure.caption.19}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Aeromagnetisk anomalikart fra undersøkelsen utført av NGU i 2007. \blx@tocontentsinit {0}\parencite {Gellein2007}\relax }}{21}{figure.caption.20}%
+\contentsline {figure}{\numberline {21}{\ignorespaces MEMS-akselerometer. \blx@tocontentsinit {0}\parencite {LevelDevelopments2020}\relax }}{22}{figure.caption.21}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Piezoelektrisk akselerometer.\relax }}{22}{figure.caption.22}%
+\contentsline {figure}{\numberline {23}{\ignorespaces MEMS-gyroskop. \blx@tocontentsinit {0}\parencite {Bosch}\relax }}{23}{figure.caption.23}%
+\contentsline {figure}{\numberline {24}{\ignorespaces BME280. \blx@tocontentsinit {0}\parencite {Bosch}\relax }}{23}{figure.caption.24}%
+\contentsline {figure}{\numberline {25}{\ignorespaces PID-reguleringssløyfe.\relax }}{23}{figure.caption.25}%
+\contentsline {figure}{\numberline {26}{\ignorespaces EKF algoritme.\relax }}{24}{figure.caption.26}%
+\contentsline {figure}{\numberline {27}{\ignorespaces DJI Air 2\relax }}{25}{figure.caption.27}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Pixhawk Cube\relax }}{25}{figure.caption.28}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Børsteløs DC-motor\relax }}{26}{figure.caption.29}%
+\contentsline {figure}{\numberline {30}{\ignorespaces Akser på et luftfartøy\relax }}{26}{figure.caption.30}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Rotasjonsretning på multirotor\relax }}{27}{figure.caption.31}%
+\contentsline {figure}{\numberline {32}{\ignorespaces Krefter i fartsretningen på en multirotor\relax }}{27}{figure.caption.32}%
+\contentsline {figure}{\numberline {33}{\ignorespaces Ankerplassering\relax }}{29}{figure.caption.33}%
+\contentsline {figure}{\numberline {34}{\ignorespaces Pozyx creator controller\relax }}{29}{figure.caption.34}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Oppkobling av pozyx tag og arduinor\relax }}{29}{figure.caption.35}%
+\contentsline {figure}{\numberline {36}{\ignorespaces Plot fra innendørstest. x-y planet i figuren til høyre, x-y planet i figuren til venstre.\relax }}{30}{figure.caption.36}%
+\contentsline {figure}{\numberline {37}{\ignorespaces RSSI måling over ulike distanser.\relax }}{30}{figure.caption.37}%
+\contentsline {figure}{\numberline {38}{\ignorespaces RSSI måling over ulike distanser.\relax }}{31}{figure.caption.38}%
+\contentsline {figure}{\numberline {39}{\ignorespaces Ulike anker oppsett.\relax }}{31}{figure.caption.39}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\centering $2\cdot 2 m$}}}{31}{subfigure.39.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\centering $5\cdot 5 m$}}}{31}{subfigure.39.2}%
+\contentsline {figure}{\numberline {40}{\ignorespaces Målinger med $2\cdot 2 m$ ankere.\relax }}{31}{figure.caption.40}%
+\contentsline {figure}{\numberline {41}{\ignorespaces Målinger med $2\cdot 2 m$ ankere uten de 50 første målepunkter.\relax }}{32}{figure.caption.41}%
+\contentsline {figure}{\numberline {42}{\ignorespaces Resultater fra måling 1.\relax }}{32}{figure.caption.42}%
+\contentsline {figure}{\numberline {43}{\ignorespaces Resultater fra måling 3.\relax }}{32}{figure.caption.43}%
+\contentsline {figure}{\numberline {44}{\ignorespaces Resultater fra måling 4.\relax }}{32}{figure.caption.44}%
+\contentsline {figure}{\numberline {45}{\ignorespaces Målinger med $5\cdot 5 m$ ankere.\relax }}{32}{figure.caption.45}%
+\contentsline {figure}{\numberline {46}{\ignorespaces Målinger med $5\cdot 5 m$ ankere uten de 50 første målepunkter.\relax }}{32}{figure.caption.46}%
+\contentsline {figure}{\numberline {47}{\ignorespaces Resultater fra måling 6.\relax }}{32}{figure.caption.47}%
+\contentsline {figure}{\numberline {48}{\ignorespaces Resultater fra måling 7.\relax }}{33}{figure.caption.48}%
+\contentsline {figure}{\numberline {49}{\ignorespaces Resultater fra måling 8.\relax }}{33}{figure.caption.49}%
+\contentsline {figure}{\numberline {50}{\ignorespaces MavLink melding for anker distanse.\relax }}{33}{figure.caption.50}%
+\contentsline {figure}{\numberline {51}{\ignorespaces Kommunikasjons vei for tag, arduino og flightcontroller.\relax }}{34}{figure.caption.51}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

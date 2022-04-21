@@ -1,0 +1,546 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{ArduinoNano}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ee5bced252ab77ec8d633c1afda7c5da}{%
+           family={Arduino},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{fullhash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{bibnamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authorbibnamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authornamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authorfullhash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Arduino}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://store.arduino.cc/products/arduino-nano
+      \endverb
+      \verb{url}
+      \verb https://store.arduino.cc/products/arduino-nano
+      \endverb
+    \endentry
+    \entry{ArduinoIntroduction}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ee5bced252ab77ec8d633c1afda7c5da}{%
+           family={Arduino},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{fullhash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{bibnamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authorbibnamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authornamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authorfullhash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Arduino}
+      \verb{urlraw}
+      \verb https://www.arduino.cc/en/Guide/Introduction
+      \endverb
+      \verb{url}
+      \verb https://www.arduino.cc/en/Guide/Introduction
+      \endverb
+    \endentry
+    \entry{Balchen2000}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=cf132a60822e4b2ffcb3688cf9d08e02}{%
+           family={Balchen},
+           familyi={B\bibinitperiod},
+           given={Jehns},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9536870b8a055a2d7c897430d279f05e}{%
+           family={Andersen},
+           familyi={A\bibinitperiod},
+           given={Trond},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c578a81383fb68b80c60164412ba0a17}{%
+           family={Foss},
+           familyi={F\bibinitperiod},
+           given={Bjarne\bibnamedelima A},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8deef898cb067d7e060726ea914526e3}
+      \strng{fullhash}{8deef898cb067d7e060726ea914526e3}
+      \strng{bibnamehash}{8deef898cb067d7e060726ea914526e3}
+      \strng{authorbibnamehash}{8deef898cb067d7e060726ea914526e3}
+      \strng{authornamehash}{8deef898cb067d7e060726ea914526e3}
+      \strng{authorfullhash}{8deef898cb067d7e060726ea914526e3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Reguleringsteknikk}
+      \field{year}{2000}
+    \endentry
+    \entry{Bosch}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2688fb24eef34c742d3ca21e642a4235}{%
+           family={Bosch},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{2688fb24eef34c742d3ca21e642a4235}
+      \strng{fullhash}{2688fb24eef34c742d3ca21e642a4235}
+      \strng{bibnamehash}{2688fb24eef34c742d3ca21e642a4235}
+      \strng{authorbibnamehash}{2688fb24eef34c742d3ca21e642a4235}
+      \strng{authornamehash}{2688fb24eef34c742d3ca21e642a4235}
+      \strng{authorfullhash}{2688fb24eef34c742d3ca21e642a4235}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Data dwarfs make the world go round}
+      \verb{urlraw}
+      \verb https://www.bosch.com/stories/bosch-mems-sensor-applications/
+      \endverb
+      \verb{url}
+      \verb https://www.bosch.com/stories/bosch-mems-sensor-applications/
+      \endverb
+    \endentry
+    \entry{IncEncyclopediaBritannica}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b292860ee6179001c1243c8c5690247f}{%
+           family={Britannica},
+           familyi={B\bibinitperiod},
+           given={Inc\bibnamedelima Encyclopedia},
+           giveni={I\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b292860ee6179001c1243c8c5690247f}
+      \strng{fullhash}{b292860ee6179001c1243c8c5690247f}
+      \strng{bibnamehash}{b292860ee6179001c1243c8c5690247f}
+      \strng{authorbibnamehash}{b292860ee6179001c1243c8c5690247f}
+      \strng{authornamehash}{b292860ee6179001c1243c8c5690247f}
+      \strng{authorfullhash}{b292860ee6179001c1243c8c5690247f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{North Magnetic Pole}
+      \verb{urlraw}
+      \verb https://www.britannica.com/science/North-Magnetic-Pole
+      \endverb
+      \verb{url}
+      \verb https://www.britannica.com/science/North-Magnetic-Pole
+      \endverb
+    \endentry
+    \entry{LevelDevelopments2020}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4af1c21a83e7c4afd0410c7ca7bcceeb}{%
+           family={Developments},
+           familyi={D\bibinitperiod},
+           given={Level},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4af1c21a83e7c4afd0410c7ca7bcceeb}
+      \strng{fullhash}{4af1c21a83e7c4afd0410c7ca7bcceeb}
+      \strng{bibnamehash}{4af1c21a83e7c4afd0410c7ca7bcceeb}
+      \strng{authorbibnamehash}{4af1c21a83e7c4afd0410c7ca7bcceeb}
+      \strng{authornamehash}{4af1c21a83e7c4afd0410c7ca7bcceeb}
+      \strng{authorfullhash}{4af1c21a83e7c4afd0410c7ca7bcceeb}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{MEMS Accelerometer}
+      \verb{urlraw}
+      \verb https://www.leveldevelopments.com/2020/10/what-are-inclinometers/mems-accelerometer/
+      \endverb
+      \verb{url}
+      \verb https://www.leveldevelopments.com/2020/10/what-are-inclinometers/mems-accelerometer/
+      \endverb
+    \endentry
+    \entry{ForsellGNSS}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=888bccfa37f537af2a0f76ee8a03934e}{%
+           family={Forsell},
+           familyi={F\bibinitperiod},
+           given={Børje},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=794d2ef8e6142bac0d65a2154b8f380b}{%
+           family={Kjerstad},
+           familyi={K\bibinitperiod},
+           given={Norvald},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c1d2bbd2fcfab6773f6a18d78b644d37}
+      \strng{fullhash}{c1d2bbd2fcfab6773f6a18d78b644d37}
+      \strng{bibnamehash}{c1d2bbd2fcfab6773f6a18d78b644d37}
+      \strng{authorbibnamehash}{c1d2bbd2fcfab6773f6a18d78b644d37}
+      \strng{authornamehash}{c1d2bbd2fcfab6773f6a18d78b644d37}
+      \strng{authorfullhash}{c1d2bbd2fcfab6773f6a18d78b644d37}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Store norske leksikon GNSS}
+      \verb{urlraw}
+      \verb https://snl.no/GNSS
+      \endverb
+      \verb{url}
+      \verb https://snl.no/GNSS
+      \endverb
+    \endentry
+    \entry{Gellein2007}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1af8ce2e78d26494b8a5e507d812c57f}{%
+           family={Gellein},
+           familyi={G\bibinitperiod},
+           given={Jomar},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1af8ce2e78d26494b8a5e507d812c57f}
+      \strng{fullhash}{1af8ce2e78d26494b8a5e507d812c57f}
+      \strng{bibnamehash}{1af8ce2e78d26494b8a5e507d812c57f}
+      \strng{authorbibnamehash}{1af8ce2e78d26494b8a5e507d812c57f}
+      \strng{authornamehash}{1af8ce2e78d26494b8a5e507d812c57f}
+      \strng{authorfullhash}{1af8ce2e78d26494b8a5e507d812c57f}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Aeromagnetisk anomalikart, Tromsø}
+      \field{year}{2007}
+      \verb{urlraw}
+      \verb https://www.ngu.no/sokkelkart/Tromsoe_Magnetometri.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.ngu.no/sokkelkart/Tromsoe_Magnetometri.pdf
+      \endverb
+    \endentry
+    \entry{Gron2021coriolis}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6d1839aec59d85d4667c2c7746b3f0b4}{%
+           family={Grøn},
+           familyi={G\bibinitperiod},
+           given={Øyvind},
+           giveni={Ø\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6d1839aec59d85d4667c2c7746b3f0b4}
+      \strng{fullhash}{6d1839aec59d85d4667c2c7746b3f0b4}
+      \strng{bibnamehash}{6d1839aec59d85d4667c2c7746b3f0b4}
+      \strng{authorbibnamehash}{6d1839aec59d85d4667c2c7746b3f0b4}
+      \strng{authornamehash}{6d1839aec59d85d4667c2c7746b3f0b4}
+      \strng{authorfullhash}{6d1839aec59d85d4667c2c7746b3f0b4}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Coriolisakselerasjonen}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://snl.no/coriolisakselerasjonen
+      \endverb
+      \verb{url}
+      \verb https://snl.no/coriolisakselerasjonen
+      \endverb
+    \endentry
+    \entry{Gron2021piezo}{online}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6d1839aec59d85d4667c2c7746b3f0b4}{%
+           family={Grøn},
+           familyi={G\bibinitperiod},
+           given={Øyvind},
+           giveni={Ø\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45515674709d6419a80f32b3d39504da}{%
+           family={Sandstad},
+           familyi={S\bibinitperiod},
+           given={Jakob},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7b6ab3227e56bd920e173044a99179e3}
+      \strng{fullhash}{7b6ab3227e56bd920e173044a99179e3}
+      \strng{bibnamehash}{7b6ab3227e56bd920e173044a99179e3}
+      \strng{authorbibnamehash}{7b6ab3227e56bd920e173044a99179e3}
+      \strng{authornamehash}{7b6ab3227e56bd920e173044a99179e3}
+      \strng{authorfullhash}{7b6ab3227e56bd920e173044a99179e3}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Piezoelektrisitet}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://snl.no/piezoelektrisitet
+      \endverb
+      \verb{url}
+      \verb https://snl.no/piezoelektrisitet
+      \endverb
+    \endentry
+    \entry{Kartverket}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4d35f31dfd98ae5f3f214ea3a8cc7c7e}{%
+           family={Kartverket},
+           familyi={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{4d35f31dfd98ae5f3f214ea3a8cc7c7e}
+      \strng{fullhash}{4d35f31dfd98ae5f3f214ea3a8cc7c7e}
+      \strng{bibnamehash}{4d35f31dfd98ae5f3f214ea3a8cc7c7e}
+      \strng{authorbibnamehash}{4d35f31dfd98ae5f3f214ea3a8cc7c7e}
+      \strng{authornamehash}{4d35f31dfd98ae5f3f214ea3a8cc7c7e}
+      \strng{authorfullhash}{4d35f31dfd98ae5f3f214ea3a8cc7c7e}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Magnetisk misvisning}
+      \verb{urlraw}
+      \verb https://www.kartverket.no/til-lands/kart/turkart/magnetisk-misvisning
+      \endverb
+      \verb{url}
+      \verb https://www.kartverket.no/til-lands/kart/turkart/magnetisk-misvisning
+      \endverb
+    \endentry
+    \entry{Keim2015}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=941f016f0d2c2891751c65b8fd89a6b4}{%
+           family={Keim},
+           familyi={K\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{941f016f0d2c2891751c65b8fd89a6b4}
+      \strng{fullhash}{941f016f0d2c2891751c65b8fd89a6b4}
+      \strng{bibnamehash}{941f016f0d2c2891751c65b8fd89a6b4}
+      \strng{authorbibnamehash}{941f016f0d2c2891751c65b8fd89a6b4}
+      \strng{authornamehash}{941f016f0d2c2891751c65b8fd89a6b4}
+      \strng{authorfullhash}{941f016f0d2c2891751c65b8fd89a6b4}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Understanding and Applying the Hall Effect, All about circuits}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://www.allaboutcircuits.com/technical-articles/understanding-and-applying-the-hall-effect/
+      \endverb
+      \verb{url}
+      \verb https://www.allaboutcircuits.com/technical-articles/understanding-and-applying-the-hall-effect/
+      \endverb
+    \endentry
+    \entry{Mearian2019}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b26a169da6ac2efd58c84c4b0f1b1f62}{%
+           family={Mearian},
+           familyi={M\bibinitperiod},
+           given={Lucas},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b26a169da6ac2efd58c84c4b0f1b1f62}
+      \strng{fullhash}{b26a169da6ac2efd58c84c4b0f1b1f62}
+      \strng{bibnamehash}{b26a169da6ac2efd58c84c4b0f1b1f62}
+      \strng{authorbibnamehash}{b26a169da6ac2efd58c84c4b0f1b1f62}
+      \strng{authornamehash}{b26a169da6ac2efd58c84c4b0f1b1f62}
+      \strng{authorfullhash}{b26a169da6ac2efd58c84c4b0f1b1f62}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Computerworld}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.computerworld.com/article/3490037/ultra-wideband-explained-and-why-its-in-the-iphone-11.html
+      \endverb
+      \verb{url}
+      \verb https://www.computerworld.com/article/3490037/ultra-wideband-explained-and-why-its-in-the-iphone-11.html
+      \endverb
+    \endentry
+    \entry{ROHM}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c0c6a1f84f83cab6f8f831059fe82d8c}{%
+           family={ROHM},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{c0c6a1f84f83cab6f8f831059fe82d8c}
+      \strng{fullhash}{c0c6a1f84f83cab6f8f831059fe82d8c}
+      \strng{bibnamehash}{c0c6a1f84f83cab6f8f831059fe82d8c}
+      \strng{authorbibnamehash}{c0c6a1f84f83cab6f8f831059fe82d8c}
+      \strng{authornamehash}{c0c6a1f84f83cab6f8f831059fe82d8c}
+      \strng{authorfullhash}{c0c6a1f84f83cab6f8f831059fe82d8c}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is a geomagnetic sensor}
+      \verb{urlraw}
+      \verb https://www.rohm.com/electronics-basics/sensor/geomagnetic-sensor
+      \endverb
+      \verb{url}
+      \verb https://www.rohm.com/electronics-basics/sensor/geomagnetic-sensor
+      \endverb
+    \endentry
+    \entry{NorskRomsenter}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=20cc842a592a941761bbbbac08749eb5}{%
+           family={Romsenter},
+           familyi={R\bibinitperiod},
+           given={Norsk},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{20cc842a592a941761bbbbac08749eb5}
+      \strng{fullhash}{20cc842a592a941761bbbbac08749eb5}
+      \strng{bibnamehash}{20cc842a592a941761bbbbac08749eb5}
+      \strng{authorbibnamehash}{20cc842a592a941761bbbbac08749eb5}
+      \strng{authornamehash}{20cc842a592a941761bbbbac08749eb5}
+      \strng{authorfullhash}{20cc842a592a941761bbbbac08749eb5}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Hva du bør vite om satellittnavigasjon}
+      \verb{urlraw}
+      \verb https://www.romsenter.no/no/Fagomraader/Satellittnavigasjon/Hva-du-boer-vite-om-satellittnavigasjon2
+      \endverb
+      \verb{url}
+      \verb https://www.romsenter.no/no/Fagomraader/Satellittnavigasjon/Hva-du-boer-vite-om-satellittnavigasjon2
+      \endverb
+    \endentry
+    \entry{Skaar2021}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1d4df8ad199c379eb494fcee445aba0e}{%
+           family={Skaar},
+           familyi={S\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1d4df8ad199c379eb494fcee445aba0e}
+      \strng{fullhash}{1d4df8ad199c379eb494fcee445aba0e}
+      \strng{bibnamehash}{1d4df8ad199c379eb494fcee445aba0e}
+      \strng{authorbibnamehash}{1d4df8ad199c379eb494fcee445aba0e}
+      \strng{authornamehash}{1d4df8ad199c379eb494fcee445aba0e}
+      \strng{authorfullhash}{1d4df8ad199c379eb494fcee445aba0e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2021}
+      \field{title}{Magnetoresistans}
+      \verb{urlraw}
+      \verb https://snl.no/magnetoresistans
+      \endverb
+      \verb{url}
+      \verb https://snl.no/magnetoresistans
+      \endverb
+    \endentry
+    \entry{Tallysman}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e0fe6e9e436847e72f502a6c16ea6929}{%
+           family={Tallysman},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{e0fe6e9e436847e72f502a6c16ea6929}
+      \strng{fullhash}{e0fe6e9e436847e72f502a6c16ea6929}
+      \strng{bibnamehash}{e0fe6e9e436847e72f502a6c16ea6929}
+      \strng{authorbibnamehash}{e0fe6e9e436847e72f502a6c16ea6929}
+      \strng{authornamehash}{e0fe6e9e436847e72f502a6c16ea6929}
+      \strng{authorfullhash}{e0fe6e9e436847e72f502a6c16ea6929}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GNSS Positioning Techniques}
+      \verb{urlraw}
+      \verb https://www.tallysman.com/gnss-positioning-techniques/
+      \endverb
+      \verb{url}
+      \verb https://www.tallysman.com/gnss-positioning-techniques/
+      \endverb
+    \endentry
+    \entry{ArdupilotDevTeam}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3e351ff900ff2d3ed54d9f36ac39ac55}{%
+           family={Team},
+           familyi={T\bibinitperiod},
+           given={Ardupilot\bibnamedelima Dev},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3e351ff900ff2d3ed54d9f36ac39ac55}
+      \strng{fullhash}{3e351ff900ff2d3ed54d9f36ac39ac55}
+      \strng{bibnamehash}{3e351ff900ff2d3ed54d9f36ac39ac55}
+      \strng{authorbibnamehash}{3e351ff900ff2d3ed54d9f36ac39ac55}
+      \strng{authornamehash}{3e351ff900ff2d3ed54d9f36ac39ac55}
+      \strng{authorfullhash}{3e351ff900ff2d3ed54d9f36ac39ac55}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ardupilot.org}
+      \verb{urlraw}
+      \verb https://ardupilot.org/copter/docs/common-apm-navigation-extended-kalman-filter-overview.html
+      \endverb
+      \verb{url}
+      \verb https://ardupilot.org/copter/docs/common-apm-navigation-extended-kalman-filter-overview.html
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

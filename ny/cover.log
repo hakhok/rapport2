@@ -1,0 +1,277 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2022.4.8)  21 APR 2022 11:55
+entering extended mode
+**"c:/Users/Haako/UiT Office 365/O365-Bachelor Drone - General/Bachelor/Latex/ny/cover.tex"
+(c:/Users/Haako/UiT Office 365/O365-Bachelor Drone - General/Bachelor/Latex/ny/cover.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+
+c:/Users/Haako/UiT Office 365/O365-Bachelor Drone - General/Bachelor/Latex/ny/cover.tex:39: LaTeX Error: Environment titlepage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 \begin{titlepage}
+                       % Suppresses displaying the page number on the title ...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/Haako/UiT Office 365/O365-Bachelor Drone - General/Bachelor/Latex/ny/cover.tex:42: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 	\center
+              % Centre everything on the page
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 42--42
+[] 
+ []
+
+c:/Users/Haako/UiT Office 365/O365-Bachelor Drone - General/Bachelor/Latex/ny/cover.tex:48: Undefined control sequence.
+<recently read> \LARGE 
+                       
+l.48 	\textsc{\LARGE Institution Name}
+                                      \\[1.5cm] % Main heading such as the n...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (57.16635pt too wide) in paragraph at lines 48--48
+ \OT1/cmr/m/sc/10 Institution 
+ []
+
+
+Overfull \hbox (27.3165pt too wide) in paragraph at lines 48--48
+ \OT1/cmr/m/sc/10 Name 
+ []
+
+c:/Users/Haako/UiT Office 365/O365-Bachelor Drone - General/Bachelor/Latex/ny/cover.tex:50: Undefined control sequence.
+<recently read> \Large 
+                       
+l.50 	\textsc{\Large Major Heading}
+                                   \\[0.5cm] % Major heading such as course ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (32.64426pt too wide) in paragraph at lines 50--50
+ []\OT1/cmr/m/sc/10 Major 
+ []
+
+
+Overfull \hbox (29.87204pt too wide) in paragraph at lines 50--50
+ \OT1/cmr/m/sc/10 Head- 
+ []
+
+
+Overfull \hbox (15.56659pt too wide) in paragraph at lines 50--50
+ \OT1/cmr/m/sc/10 ing 
+ []
+
+c:/Users/Haako/UiT Office 365/O365-Bachelor Drone - General/Bachelor/Latex/ny/cover.tex:52: Undefined control sequence.
+<recently read> \large 
+                       
+l.52 	\textsc{\large Minor Heading}
+                                   \\[0.5cm] % Minor heading such as course ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (31.42203pt too wide) in paragraph at lines 52--52
+ []\OT1/cmr/m/sc/10 Minor 
+ []
+
+
+Overfull \hbox (29.87204pt too wide) in paragraph at lines 52--52
+ \OT1/cmr/m/sc/10 Head- 
+ []
+
+
+Overfull \hbox (15.56659pt too wide) in paragraph at lines 52--52
+ \OT1/cmr/m/sc/10 ing 
+ []
+
+c:/Users/Haako/UiT Office 365/O365-Bachelor Drone - General/Bachelor/Latex/ny/cover.tex:60: Undefined control sequence.
+l.60 	{\huge
+            \bfseries An Unnecessarily Convoluted Academic Title}\\[0.4cm] %...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (15.08325pt too wide) in paragraph at lines 60--60
+ []\OT1/cmr/bx/n/10 An 
+ []
+
+
+Overfull \hbox (19.06934pt too wide) in paragraph at lines 60--60
+ \OT1/cmr/bx/n/10 Un- 
+ []
+
+
+Overfull \hbox (20.60406pt too wide) in paragraph at lines 60--60
+ \OT1/cmr/bx/n/10 nec- 
+ []
+
+
+Overfull \hbox (13.6402pt too wide) in paragraph at lines 60--60
+ \OT1/cmr/bx/n/10 es- 
+ []
+
+
+Overfull \hbox (18.69571pt too wide) in paragraph at lines 60--60
+ \OT1/cmr/bx/n/10 sar- 
+ []
+
+
+Overfull \hbox (12.45827pt too wide) in paragraph at lines 60--60
+ \OT1/cmr/bx/n/10 ily 
+ []
+
+
+Overfull \hbox (24.27765pt too wide) in paragraph at lines 60--60
+ \OT1/cmr/bx/n/10 Con- 
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 60--60
+ \OT1/cmr/bx/n/10 vo- 
+ []
+
+
+Overfull \hbox (25.71515pt too wide) in paragraph at lines 60--60
+ \OT1/cmr/bx/n/10 luted 
+ []
+
+
+Overfull \hbox (23.22902pt too wide) in paragraph at lines 60--60
+ \OT1/cmr/bx/n/10 Aca- 
+ []
+
+
+Overfull \hbox (29.54846pt too wide) in paragraph at lines 60--60
+ \OT1/cmr/bx/n/10 demic 
+ []
+
+
+Overfull \hbox (15.0277pt too wide) in paragraph at lines 60--60
+ \OT1/cmr/bx/n/10 Ti- 
+ []
+
+
+Overfull \hbox (12.93744pt too wide) in paragraph at lines 60--60
+ \OT1/cmr/bx/n/10 tle 
+ []
+
+c:/Users/Haako/UiT Office 365/O365-Bachelor Drone - General/Bachelor/Latex/ny/cover.tex:70: Undefined control sequence.
+l.70 			\large
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no B in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no J in font nullfont!
+Missing character: There is no . in font nullfont!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 74.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 74.
+c:/Users/Haako/UiT Office 365/O365-Bachelor Drone - General/Bachelor/Latex/ny/cover.tex:78: Undefined control sequence.
+l.78 			\large
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no D in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+
+Overfull \hbox (3276.74998pt too wide) in paragraph at lines 68--83
+ []$[]$ 
+ []
+
+
+Overfull \hbox (3276.74998pt too wide) in paragraph at lines 68--83
+ []$ 
+ []
+
+c:/Users/Haako/UiT Office 365/O365-Bachelor Drone - General/Bachelor/Latex/ny/cover.tex:94: Undefined control sequence.
+l.94 	{\large
+             \today} % Date, change the \today to a set date if you want to ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Haako/UiT Office 365/O365-Bachelor Drone - General/Bachelor/Latex/ny/cover.tex:94: Undefined control sequence.
+l.94 	{\large\today
+                   } % Date, change the \today to a set date if you want to ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/Haako/UiT Office 365/O365-Bachelor Drone - General/Bachelor/Latex/ny/cover.tex:107: LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.107 \end{titlepage}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> ...rone - General/Bachelor/Latex/ny/cover.tex"
+                                                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 31 strings out of 478566
+ 768 string characters out of 2843591
+ 290216 words of memory out of 3000000
+ 18330 multiletter control sequences out of 15000+600000
+ 470214 words of font info for 31 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 20i,3n,18p,236b,220s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
